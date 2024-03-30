@@ -1,3 +1,31 @@
+# My-Money-App
+
+## Description
+
+My project is a React.js application developed with Create React App. It enables users to manage their transactions efficiently. With Firebase integration, users can securely add or delete their transactions with ease. Transactions are listed in order by their created timestamp, providing users with a clear chronological view of their financial activities.
+
+## Features
+
+- Allows users to add and delete transactions
+- Utilizes React.js for a dynamic user interface
+- Implements Firebase for secure authentication and database management
+
+## Installation
+
+1. Clone the repository
+2. Navigate to the project directory
+3. Run `npm install` to install dependencies
+4. Create a Firebase project and set up authentication and database
+5. Configure Firebase credentials in your project
+6. Run `npm start` to start the development server
+
+## Screenshots
+
+![Screenshot 1](screenshots/ss-mymoney-1.png)
+![Screenshot 2](screenshots/ss-mymoney-2.png)
+![Screenshot 3](screenshots/ss-mymoney-3.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
